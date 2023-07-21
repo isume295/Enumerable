@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # provides custom enumerable methods for arrays.
 module MyEnumerable
   def all?(&block)
