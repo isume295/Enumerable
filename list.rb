@@ -1,6 +1,4 @@
-# frozen_string_literal: true
-
-require_relative 'enumerable'
+ require_relative 'enumerable'
 
 # represents the list
 class MyList
